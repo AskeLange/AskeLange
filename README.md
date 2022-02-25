@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AskeLange)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **AskeLange/AskeLange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- 🔭 I’m currently working with @limbo.works, using Vue.js + Tailwind.css (and sometimes React). 
+- 🌱 I’m currently learning ...
 
 Here are some ideas to get you started:
 
