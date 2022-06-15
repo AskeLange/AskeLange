@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Aske, a frontender with a love for digital design and animations 🎨 <br />
-Currently working the amazing people over at [@limbo.works](https://limbo.works), using **Vue.js** + **Tailwind.css** 🖥️ 
+Currently working with the amazing people over at [@limbo.works](https://limbo.works), using **Vue.js** + **Tailwind.css** 🖥️ 
 
 <!--
 **AskeLange/AskeLange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
