@@ -1,7 +1,7 @@
-### Hi there 👋
+### Yoo 👋
 
-I'm Aske, a frontender with a love for digital design and animations 🎨 <br />
-Currently working with the amazing people over at [@limbo.works](https://limbo.works), using **Vue.js** + **Tailwind.css** 🖥️ 
+Digital designer & frontend-developer working at [@limbo.works](https://limbo.works) using **Nuxt3** + **Tailwind3**.<br />
+Also working on an open-source library for working with animations in JS ([`@kinematic-lab/core`](https://github.com/kinematic-lab/core#showcase)).
 
 <!--
 **AskeLange/AskeLange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
