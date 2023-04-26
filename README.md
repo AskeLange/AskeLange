@@ -1,7 +1,7 @@
 ### Yoo 👋
 
 Digital designer & frontend-developer working at [@limbo.works](https://limbo.works) using **Nuxt3** + **Tailwind3**.<br />
-Also working on an open-source library for working with animations in JS ([`@kinematic-lab/core`](https://github.com/kinematic-lab/core#showcase)).
+Also just started working on an open-source library for working with animations in JavaScript ([`@kinematic-lab/core`](https://github.com/kinematic-lab/core#showcase)).
 
 <!--
 **AskeLange/AskeLange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
