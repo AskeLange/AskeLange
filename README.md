@@ -1,7 +1,7 @@
 ### Yoo 👋
 
 Creative developer (and neovim-noviate, btw) working at [@limbo.works](https://limbo.works) using primarily **nuxt** & **unocss**.<br />
-Also working on an open-source library for working with animations in JavaScript ([`@kinematic-lab/kinematic-lab`](https://github.com/kinematic-lab/kinematic-lab)).
+Also working on an open-source library for working with animations in JavaScript ([`@kinematic-lab`](https://github.com/kinematic-lab/kinematic-lab)).
 
 <!--
 **AskeLange/AskeLange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
