@@ -1,6 +1,6 @@
-### Yoo 👋
+### Howdy 👋
 
-Frontend Lead working at [@limbo.works](https://limbo.works) using, among other things, **nuxt** and **unocss**.<br />
+Frontend Lead working at [@limbo.works](https://limbo.works) using, among other things, **Nuxt.JS** and **UnoCSS**.<br />
 Also working on an open-source library for working with animations in JavaScript ([`@kinematic-lab`](https://github.com/kinematic-lab/kinematic-lab)).
 
 <!--
