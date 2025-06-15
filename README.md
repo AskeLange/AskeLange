@@ -2,6 +2,7 @@
 
 Frontend Lead working at [@limbo.works](https://limbo.works) using, among other things, **Nuxt.JS** and **UnoCSS**.<br />
 Also working on an open-source library for working with animations in JavaScript ([`@kinematic-lab`](https://github.com/kinematic-lab/kinematic-lab)).
+Currently exploring ASP.NET & Umbraco.
 
 <!--
 **AskeLange/AskeLange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
